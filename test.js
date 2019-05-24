@@ -4,3 +4,4 @@ var y = 2
 var total = x + y
 
 console.log("The total is " + total)
+//does this auto add to github?
